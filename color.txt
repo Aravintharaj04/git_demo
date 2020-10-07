@@ -3,5 +3,3 @@ red green  yellow
 cyan
 
 blue
-
-yellowish
